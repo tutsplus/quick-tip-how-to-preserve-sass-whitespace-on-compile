@@ -1,0 +1,17 @@
+{
+  "name": "sass-to-css",
+  "version": "1.0.0",
+  "description": "Sass to CSS: How to Preserve Whitespace on Compile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adi Purdila",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-replace": "^1.0.1",
+    "grunt-sass": "^2.0.0",
+    "load-grunt-tasks": "^3.5.2"
+  }
+}
